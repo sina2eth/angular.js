@@ -20,4 +20,5 @@ ng\:form {
 
 .ng-anchor {
   position:absolute;
+  top:0;
 }
